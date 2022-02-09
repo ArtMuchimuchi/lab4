@@ -1,0 +1,17 @@
+.head-list {
+    background-color: rgb(208, 219, 255);
+    border: solid rgb(43, 38, 121) 2px;
+    border-radius: 5px;
+    color: rgb(43, 38, 121);
+    font-weight: bold;
+    padding: 3px;
+    user-select: none;
+}
+
+.head-list--unorder-list {
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
